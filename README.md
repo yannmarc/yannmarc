@@ -18,9 +18,9 @@
 
 - ⚡ Fun fact **I design, and I am drummer**
 
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yannmarc&show_icons=true&locale=en&layout=compact" alt="yannmarc" /></p>
+[![yannmarc's github stats](https://github-readme-stats.vercel.app/api?username=yannmarc&count_private=true&show_icons=true&theme=github_dark&hide_rank=false)](https://github.com/yannmarc/github-readme-stats)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yannmarc&show_icons=true&locale=en" alt="yannmarc" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yannmarc&layout=compact&theme=dark)](https://github.com/yannmarc/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
